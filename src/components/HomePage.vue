@@ -24,7 +24,7 @@
             Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
           </p>
           <a
-            href="/blogpost"
+            href="blogpost"
             class="gap-3 px-12 py-4 mt-12 mb-0 text-lg leading-none bg-blue-600 hover:bg-blue-700 max-md:px-5 max-md:mt-10 max-md:mb-2.5"
             tabindex="0"
             role="button"
