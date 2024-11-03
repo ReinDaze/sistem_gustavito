@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import HeaderContent from '@/components/HeaderContent.vue'
 import FooterContent from '@/components/FooterContent.vue'
-import AboutSection from '@/components/AboutSection.vue';
+import AboutSection from '@/components/AboutUsPage.vue';
 
 
 

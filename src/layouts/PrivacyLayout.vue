@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import HeaderContent from '@/components/HeaderContent.vue'
 import FooterContent from '@/components/FooterContent.vue'
-import PrivacySection from '@/components/PrivacySection.vue';
+import PrivacySection from '@/components/PrivacyPage.vue';
 
 </script>
 

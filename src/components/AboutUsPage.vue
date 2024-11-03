@@ -19,7 +19,7 @@
         </div>
       </article>
 
-      <section class="flex relative flex-col items-start px-20 pt-[300px] min-h-[444px] max-md:px-5 max-md:pt-24 max-md:max-w-full">
+      <section class="flex relative flex-col items-start px-20 pt-[300px] min-h-[444px] max-md:px-5 max-md:pt-24 max-md:max-w-full -mt-16">
         <img loading="lazy" src="../assets/images/misc/orangrangkulan.png" alt="Background image showing company statistics" class="object-cover absolute inset-0 size-full" />
         <div class="flex relative flex-col max-w-full w-[862px]">
           <div class="px-12 py-8 max-w-full bg-blue-600 w-[630px] max-md:px-5">
@@ -93,8 +93,8 @@
         </div>
       </section>
 
-      <section class="mt-32 w-full max-w-[1207px] max-md:mt-10 max-md:max-w-full">
-        <div class="flex gap-5 max-md:flex-col">
+      <section class="mt-32 w-full max-w-[1207px] max-md:mt-10 max-md:max-w-full ">
+        <div class="flex gap-5 max-md:flex-col ">
           <div class="flex flex-col w-[55%] max-md:ml-0 max-md:w-full">
             <img loading="lazy" src="../assets/images/misc/tigaorang.png" alt="Blog creation process illustration" class="object-contain grow w-full aspect-[1.21] max-md:mt-10 max-md:max-w-full" />
           </div>

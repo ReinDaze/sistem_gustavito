@@ -2,7 +2,7 @@
   <div>
     <!-- Article Section (Kode 1) -->
     <article class="flex flex-col text-base font-bold text-white">
-      <section class="flex relative flex-col w-full min-h-[720px] max-md:max-w-full mb-20">
+      <section class="flex relative flex-col w-full min-h-screen max-md:max-w-full mb-20">
         <img
           loading="lazy"
           src="../assets/images/misc/cover.png"
@@ -12,7 +12,7 @@
         <div class="flex relative flex-col items-start px-20 py-40 w-full max-md:px-5 max-md:py-24 max-md:max-w-full">
           <header class="font-semibold leading-none uppercase tracking-[3px]">
             <span class="font-medium">Posted on</span>
-            <span class="font-black">startup</span>
+            <span class="font-black"> startup</span>
           </header>
           <h1 class="mt-6 text-6xl tracking-tighter leading-[64px] w-[803px] max-md:max-w-full max-md:text-4xl max-md:leading-[51px]">
             Step-by-step guide to choosing great font pairs
@@ -24,7 +24,7 @@
             Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
           </p>
           <a
-            href="#"
+            href="/blogpost"
             class="gap-3 px-12 py-4 mt-12 mb-0 text-lg leading-none bg-blue-600 hover:bg-blue-700 max-md:px-5 max-md:mt-10 max-md:mb-2.5"
             tabindex="0"
             role="button"
